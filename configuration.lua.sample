@@ -1,8 +1,7 @@
 local CONFIGURATION = {
-    api_key = "YOUR_API_KEY",
-    model = "gpt-4o-mini",
-    base_url = "https://api.openai.com/v1/chat/completions",
-    additional_parameters = {},
+    api_key = "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",
+    model = "qwen/qwen3-32b",
+    base_url = "https://api.groq.com/openai/v1"
 }
 
 return CONFIGURATION
